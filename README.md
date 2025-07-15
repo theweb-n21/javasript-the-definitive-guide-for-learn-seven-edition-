@@ -23,6 +23,3 @@ If you have any questions or feedback regarding the code examples or the book, f
 - Email: [sunnybdd2013@gmail.com](mailto:sunnybdd2013@gmail.com)
 - GitHub: [theweb-n21](https://github.com/theweb-n21 )
 
-## Table of Contents
-- [Chapter 1: Introduction to JavaScript](./Introduction%20to%20javaScript/)
--
