@@ -1,4 +1,4 @@
-/**
+/*
  Chapter 2. Lexical Structure
  The lexical structure of a programming language is the set of
  elementary rules that specifies how you write programs in that
@@ -32,4 +32,4 @@ JavaScript ignores spaces that appear between tokens in programs. For
  Unicode space characters as whitespace. JavaScript recognizes
  newlines, carriage returns, and a carriage return/line feed sequence as
  line terminators
-**/
+*/

@@ -13,7 +13,7 @@ To use the code examples in this repository, you can clone the repository to you
 
 bash 
 git clone
-https://github.com/theweb-n21/javasript-the-definitive-guide-for-learn-seven-edition-.git```
+https://github.com/theweb-n21/javasript-the-definitive-guide-for-learn-seven-edition-.git
 
 ## After cloning the repository, you can navigate to the specific chapter or section you are interested in and run the code examples in your preferred JavaScript environment (e.g., Node.js, browser console).
 ## Contributing
@@ -26,4 +26,5 @@ If you have any questions or feedback regarding the code examples or the book, f
 ## Table of Contents
 
 - [Introduction to javaScript](/Introduction%20to%20javaScript/)
+- [Lexical structure](./Lexical%20structure/)
  
