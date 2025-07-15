@@ -11,9 +11,9 @@ This code is released under the MIT License. See the [LICENSE](LICENSE) file for
 ## Usage
 To use the code examples in this repository, you can clone the repository to your local machine using the following command:
 
-```bash 
+bash 
 git clone
-https://github.com/theweb-n21/javasript-the-definitive-guide-for-learn-seven-edition-.git
+https://github.com/theweb-n21/javasript-the-definitive-guide-for-learn-seven-edition-.git```
 
 ## After cloning the repository, you can navigate to the specific chapter or section you are interested in and run the code examples in your preferred JavaScript environment (e.g., Node.js, browser console).
 ## Contributing
@@ -21,11 +21,9 @@ Contributions to this repository are welcome! If you find any issues or have sug
 ## Contact  
 If you have any questions or feedback regarding the code examples or the book, feel free to reach out via the following channels:
 - Email: [sunnybdd2013@gmail.com](mailto:sunnybdd2013@gmail.com)
-- GitHub: [theweb-n21](https://github.com/theweb-n21 )
+- GitHub: [theweb-n21](https://github.com/theweb-n21 ).
 
-<<<<<<< Updated upstream
-=======
+## Table of Contents
 
-
-
->>>>>>> Stashed changes
+- [Introduction to javaScript](/Introduction%20to%20javaScript/)
+ 
