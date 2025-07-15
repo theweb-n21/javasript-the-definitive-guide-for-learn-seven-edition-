@@ -13,7 +13,5 @@ To use the code examples in this repository, you can clone the repository to you
 
 ```bash 
 git clone
-
-Table of Contents
-<a href="./Introduction to javaScript/">Introduction to javaScript</a> |
+https://github.com/theweb-n21/javasript-the-definitive-guide-for-learn-seven-edition-.git
 
