@@ -27,4 +27,4 @@ If you have any questions or feedback regarding the code examples or the book, f
 
 - [Introduction to javaScript](/Introduction%20to%20javaScript/)
 - [Lexical structure](./Lexical%20structure/)
- 
+ - [Types, Values, and Variables](./Types,Values,and%20Variables/)
