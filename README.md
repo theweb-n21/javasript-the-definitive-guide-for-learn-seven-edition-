@@ -28,3 +28,4 @@ If you have any questions or feedback regarding the code examples or the book, f
 - [1-Introduction to javaScript](./1-Introduction%20to%20javaScript/)
 - [2-Lexical structure](./2-Lexical%20structure/)
  - [3-Types-Values-and-Variables](./3-Types-Values-and-Variables/)
+ - [4-Expressions-and-Operators](./4-Expressions-and-Operators/)
