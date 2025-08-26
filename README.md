@@ -25,6 +25,6 @@ If you have any questions or feedback regarding the code examples or the book, f
 
 ## Table of Contents
 
-- [Introduction to javaScript](/Introduction%20to%20javaScript/)
-- [Lexical structure](./Lexical%20structure/)
- - [Types, Values, and Variables](./Types,Values,and%20Variables/)
+- [1-Introduction to javaScript](./1-Introduction%20to%20javaScript/)
+- [2-Lexical structure](./2-Lexical%20structure/)
+ - [3-Types-Values-and-Variables](./3-Types-Values-and-Variables/)
